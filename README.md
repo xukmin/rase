@@ -92,49 +92,6 @@ Dependencies
 
 - imagemagick is needed for converting SVG to PNG.
 
-File Structures
----------------
-build-routings.cc
-  Build sample routing networks.
-
-calculate-routing-metrics.cc
-  Main function of localized routing topology generation simulation.
-
-position.h
-position.cc
-  Position struct.
-
-region.h
-  Region struct.
-
-routing-builders.h
-routing-builders.cc
-  A set of localized routing topology generation algorithms.
-
-routing-metric-calculators.h
-routing-metric-calculators.cc
-  A set of routing metric calculation algorithms.
-
-sensor-network.h
-sensor-network.cc
-  The SensorNetwork class.
-
-sensor-placers.h
-sensor-placers.cc
-  The SensorPlacer class and 2 subclasses.
-
-sensor.h
-sensor.cc
-  The Sensor class.
-
-svg-printer.h
-svg-printer.cc
-  The SvgPrinter class, to print a SensorNetwork to SVG graph.
-
-utils.h
-utils.cc
-  Some utility functions.
-
 Simulation Methodology
 ----------------------
 
