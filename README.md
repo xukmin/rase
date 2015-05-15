@@ -9,6 +9,49 @@ RASE is a simulator and evaluator for Wireless Sensor Network routing algorithms
 
 8 localized routing algorithms, 5 network structure & routing performance analyzers, and a sensor network simulator are implemented.
 
+Simulation & Evaluation Outputs
+-------------------------------
+
+### Routing Trees
+
+Routing Tree with 100 Sensors
+
+<img src="https://lh6.googleusercontent.com/-zEHEMgwhIgo/VVWyDRccUtI/AAAAAAAADzg/j41kVgHOSAY/w1896-h1010-no/routings-100.png" width="640">
+
+Routing Tree with 200 Sensors
+
+<img src="https://lh6.googleusercontent.com/-qt27OyVyhIU/VVWyDT88EMI/AAAAAAAADzg/AnkJdcynmGc/w1896-h1010-no/routings-200.png" width="640">
+
+Routing Tree with 300 Sensors
+
+<img src="https://lh6.googleusercontent.com/-1ueSJX8voS0/VVWyDfH7NbI/AAAAAAAADzg/NhHUwJKhSDc/w1896-h1010-no/routings-300.png" width="640">
+
+Routing Tree with 400 Sensors
+
+<img src="https://lh6.googleusercontent.com/-hpW1Z6IkxPU/VVWyDULkSTI/AAAAAAAADzg/C1j9gX_etLU/w1896-h1010-no/routings-400.png" width="640">
+
+### Metrics
+
+Node Degree Variance
+
+<img src="https://lh4.googleusercontent.com/-X_zVxQKGMUw/VVWyDXEYtHI/AAAAAAAADzg/21LhC0AXAXg/w1280-h960-no/metrics-400-node-degree-variance.png" width="640">
+
+Robustness
+
+<img src="https://lh6.googleusercontent.com/-i9QK0NXlp2M/VVWyDWkTxaI/AAAAAAAADzg/DTtldC-IaDA/w1280-h960-no/metrics-400-robustness.png" width="640">
+
+Channel Quality
+
+<img src="https://lh4.googleusercontent.com/-z261-AioxG4/VVWyDXi9kPI/AAAAAAAADzg/-TLFvq4M0Fs/w1280-h960-no/metrics-400-channel-quality.png" width="640">
+
+Data Aggregation
+
+<img src="https://lh4.googleusercontent.com/-p2tL5vv4220/VVWyDVnrnfI/AAAAAAAADzg/sPKqR0pDtMQ/w1280-h960-no/metrics-400-data-aggregation.png" width="640">
+
+Latency
+
+<img src="https://lh4.googleusercontent.com/-2M9-OuBbNXA/VVWyDdEX_MI/AAAAAAAADzg/RabIQPVJ64k/w1280-h960-no/metrics-400-latency.png" width="640">
+
 Usage
 -----
 
